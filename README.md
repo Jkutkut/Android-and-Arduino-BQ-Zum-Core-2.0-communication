@@ -1,5 +1,6 @@
 # Android-and-BQ-Zum-Core-2.0-communication
 
+
 **English:**
 
 Using Bluetooth Low Energy technology to establish communication between AppInventor and Arduino. I this case, an android device an a [BQ Zum Core 2.0](https://www.bq.com/en/zum-core-2-0) are used.
