@@ -1,0 +1,1 @@
+# Android-and-BQ-Zum-Core-2.0-communication
